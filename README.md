@@ -1,1 +1,1 @@
-# Gradient_Descendent
+# Example about Gradient Descendent
